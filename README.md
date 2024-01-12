@@ -1,3 +1,6 @@
+
+
+
 # Wappnet_Design
 This is a simple Spring Boot project that demonstrates a one-to-many relationship between `Author` and `Book` entities. The project includes CRUD operations for both entities.
 
@@ -35,3 +38,8 @@ GET /books/{id}: Retrieve a book by ID.
 POST /books: Create a new book.
 PUT /books/{id}: Update a book by ID.
 DELETE /books/{id}: Delete a book by ID.
+
+
+## Additional Information
+
+For Running the application, download the zip file, extract and open in Intellij IDE, and run as Springboot application.
